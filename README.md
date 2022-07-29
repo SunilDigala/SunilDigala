@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SunilDigala
 - 👀 I’m interested in projects related to data
-- 🌱 I’m currently learning Spark and Scala
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Data Analytics and Data Engineering projects
+- 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me ...
 
 <!---
